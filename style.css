@@ -1,1 +1,105 @@
+.header h1 {
+    color:white;
+    text-align: left;
+    background-color: rgb(94, 94, 224);
+    
+}
 
+.container {
+    color: rgb(242, 243, 237);
+}
+
+
+body {
+    color: #222222;
+    font-size: 1em;
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgNDQ0HBwcHBwcHBw0HBwcHBw8ICQcNFREWFhURFRMYHSggGBoxGxMTITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDg0NDjcZFRkrKysrKysrKysrKy0tKzctLS0rLSsrLSsrKy0rLS0rKy0rKysrKys3KysrKysrKy0rK//AABEIALcBEwMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAABAAIDBAb/xAAXEAEBAQEAAAAAAAAAAAAAAAAAAQIR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECBgX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/APj8x1zGMx1zHZY8m1uR0kYy6QZtMjcEjUGUUkCkhEUQXDwHqILAaFBQ0A1kNBTWQ1RVGaK0yq6yK1YFXWWa3WQ1msWOlZsU1ysY1HaxiwXXDUctR6NRz1Ealeewt8DOLr35dcxjLpkSt5jcZjcGGoQUQoEQkGASECIMRAGgoyiAAaCgZrQoMitCqMstUKrIrQVWazW6zQYsZrpWKquWo56jtXPURXHib4kxdezLpGMukQrcajMagwSCiEggSCIUkgkQCoaAgSSgFIAApRmitAVkVoVRkNMqorNaFBis1us1Vc7GNR0rGhXLiaQPXluMZdIytajUEIwTAUQkQgSCgiCCSQhBAIEAmWgoAQAFaCjKIBmhplVDNaCqyK1WVGLGK6VjQrnUULr05bjEdIyVqEFGCQQMIhEJBiCIIIhAQkggQohSACSVBQQADQUZFaoorNDVZqqzRWqKoxWLHSsUVzJQrvG4xG4ytLUBGCYCIYQQTUBQRSBIhBJIAjQqIEAEQoEkASQBloAzRWmVVmitVmqorFbZqqwChXbLpHPLcZK1CIYMkooihSAmAwCkkRJIEkgQKVAkgCIAAoACFAGgKzRWqzVGRWqKKzWK3WKqxhECu0bjEbjK1qNRlqDBIIFIgjAYiFJAUkARQgRABFAAUDKIUQIABoKMhoUGRWqyrTNY03WKLGEqlV0jcYy3GVrcajMagwTARCQYgjEREQUEkgSSBJIAilACgAIECIVRQ0AZDQqjIpoorFYrdY0rUYoSFdMukco6Rla6RqMRuKxSUURFRCGEGAUokEQQBSBAoQJIAiFAiACSAApRkNUAzWa1WKrTNc9OmnLQrIFI03mumXHNdM1FrrG455bgxW40zGoMmJQgiCgikIikCSQJJAgUARABEKgRAAECgVpmqM1itaY0NRjVc9N6ctUajKZ6UaOa65qSLXXNbiTTFbjUSGK0UkRNJAikCRQgSQJJAQkCSQAJAgkCCSjNZpQrGnPSQ1HPTlqpI3HK1JI0/9k=);
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    
+}
+
+.container {
+    color: rgb(248, 247, 247);
+
+}
+
+.nav-link :active {
+    color: white;
+}
+
+.content-footer,
+.masthead-heading,
+.masthead-intro {
+  text-align: center;
+}
+
+.masthead {
+  padding: 6em 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.id .emailHelp{
+    color: white;
+}
+
+.masthead-intro {
+    margin-bottom: 0.1em;
+    font-size: 2em;
+    color: #ffffff;
+}
+
+.masthead-heading {
+    margin-top: -0.2em;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.details {
+    max-width: 38em;
+    margin-left: initial;
+    margin-right: initial;
+    margin-top: 2em;
+    
+}
+
+.details > p {
+    font-weight: 300;
+    letter-spacing: 0.05em;
+}
+
+.details > h2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 2em 0 1em 0;
+}
+
+
+}
+
+#footer {
+  padding: 20px 0;
+  text-align: center;
+  background-color: #111111;
+  text-decoration: none;
+}
+
+#footer a {
+  color: #ffffff;
+}
+.social > li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        background-color: rgb(62, 62, 202);
+    }
+        
+    .wrapper {
+        width: 400px:
+    }
